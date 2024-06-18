@@ -12,7 +12,7 @@ This project aims to improve the detection of fraud cases in e-commerce transact
 - [Setup and Installation](#setup-and-installation)
 - [Data Analysis and Preprocessing](#Data-Analysis-and-Preprocessing)
 - [Model Building and Training](#Model-Building-and-Training)
-- [Model Explainability](#Model Explainability)
+- [Model Explainability](#Model-Explainability)
 - [Model Deployment and API Development](#Model-Deployment-and-API-Development)
 - [Learning Outcomes](#Learning-Outcomes)
 - [References](#references)
