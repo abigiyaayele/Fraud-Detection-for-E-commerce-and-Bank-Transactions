@@ -31,6 +31,27 @@ Fraud detection is critical for ensuring the security and integrity of financial
 - **Model Explainability**: Use SHAP and LIME to interpret and explain the models' predictions.
 - **Model Deployment**: Deploy the models for real-time fraud detection using Flask and Docker.
 - **API Development**: Create REST APIs to serve the models and enable real-time prediction serving.
+
+## Project Structure
+
+Fradu-Detection-for e-commerce and bank detection/
+├── data/
+│   ├──creditcard.csv
+│   ├── fraud_data.csv..
+├── noootebooks/
+│     ├── eda.ipynb
+│     ├── model.ipynb
+│     ├── ...
+├── requirements.txt
+└── scrpits/
+│    └── eda.py
+│    └── model.py
+│
+├── test/
+├──   ├── model_test.py
+│     ├── unittest.py
+│               
+├── readme.md
   
 ## Technologies Used 
 
