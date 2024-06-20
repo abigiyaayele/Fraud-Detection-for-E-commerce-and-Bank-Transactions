@@ -33,7 +33,8 @@ Fraud detection is critical for ensuring the security and integrity of financial
 - **API Development**: Create REST APIs to serve the models and enable real-time prediction serving.
 
 ## Project Structure
-
+```plaintext
+```plaintext
 Fradu-Detection-for e-commerce and bank detection/
 ├── data/
 │   ├──creditcard.csv
@@ -52,7 +53,7 @@ Fradu-Detection-for e-commerce and bank detection/
 │     ├── unittest.py
 │               
 ├── readme.md
-  
+```
 ## Technologies Used 
 
 #### Programming Languages and Libraries
